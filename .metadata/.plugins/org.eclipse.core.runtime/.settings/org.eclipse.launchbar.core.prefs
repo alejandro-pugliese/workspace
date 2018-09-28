@@ -1,0 +1,7 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=macosx
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:TPL1_v2 LinkServer Debug,org.eclipse.launchbar.core.descriptorType.default\:TPL1_v2 LinkServer Release,org.eclipse.launchbar.core.descriptorType.default\:ADC_Pote_KitInfo LinkServer Debug,org.eclipse.launchbar.core.descriptorType.default\:ADC_Pote_KitInfo LinkServer Release,org.eclipse.launchbar.core.descriptorType.default\:Clase19 Debug,org.eclipse.launchbar.core.descriptorType.default\:Clase19 Release,org.eclipse.launchbar.core.descriptorType.default\:TPL_UART_ADC LinkServer Debug,org.eclipse.launchbar.core.descriptorType.default\:TPL_UART_ADC LinkServer Release,org.eclipse.launchbar.core.descriptorType.default\:test_2018_06_21 LinkServer Debug,org.eclipse.launchbar.core.descriptorType.default\:test_2018_06_21 LinkServer Release
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:ADC_Pote_KitInfo\ LinkServer\ Debug/activeLaunchMode=debug
+org.eclipse.launchbar.core.descriptorType.default\:ADC_Pote_KitInfo\ LinkServer\ Debug/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
